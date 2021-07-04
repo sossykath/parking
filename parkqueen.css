@@ -1,0 +1,67 @@
+.frontpage{
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-image: url("bg1.png");
+}
+
+header{
+	background-color:#99ddff;
+	color: black;
+	text-align: center;
+	padding: 4px;
+	font-family: Georgia;
+
+}
+
+section{
+	background-color: #b3e6ff;
+	color: black;
+	text-align: center;
+	padding: 20px;
+	font-family: Courier;
+	font-size: 20px;
+}
+
+.reservationbody{
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-image: url("bg3.png");
+}
+
+table,td,tr,thead,th{
+	border:1px solid black;
+	
+}
+
+	
+
+
+.registerbody{
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-image: url("bg2.png");
+}
+.form-control {
+  display: block;
+  width: 100%;
+  height: calc(2.25rem + 2px);
+  padding: 0.375rem 0.75rem;
+  line-height: 1.5;
+  color: #492147;
+  background-color:#99ffbb;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.form-control::-ms-expand {
+  background-color:currentColor;
+  border: 50%;
+}
+
+
+
